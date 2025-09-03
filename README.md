@@ -1,4 +1,5 @@
 # two-stage-CMOS-operational-amplifier-design
+Explanation video link (Indonesian): https://youtu.be/kwhLM6c_WrE  
 This project presents the design and simulation of a two-stage CMOS operational amplifier (Op-Amp).  
 The design targeted key performance specifications including:  
 Open-loop gain: 120 dB  
